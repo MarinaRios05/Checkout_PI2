@@ -1,10 +1,12 @@
-# Sistema de Gerenciamento de Livraria
+# Atividade de Checkout - Projeto Integrador
 
-Este repositório contém os arquivos da atividade acadêmica de modelagem e versionamento de banco de dados para um sistema de comércio. O projeto simula o gerenciamento de produtos e pedidos de uma pequena livraria.
+Este repositório é referente à **Atividade de Checkout de Presença**, parte do Módulo 3 da disciplina de **Projeto Integrador**, da UFMS.
+
+A atividade foi desenvolvida como parte da preparação para o nosso projeto de extensão universitário.
 
 ## Sobre a Atividade
 
-A atividade, parte da disciplina de Projeto Integrador, foca na criação de um esquema de banco de dados relacional e no uso do Git e GitHub para controle de versão. O sistema é projetado para ser a base de um pequeno comércio, permitindo o armazenamento de informações essenciais para a operação do negócio.
+Para a realização da atividade, foi proposta a criação de um modelo de banco de dados para um pequeno comércio, com o uso do Git e GitHub para controle de versão. O projeto simula o gerenciamento de produtos e pedidos de uma **livraria**.
 
 ## Estrutura do Banco de Dados
 
