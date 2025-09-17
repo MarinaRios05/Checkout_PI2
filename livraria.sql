@@ -11,7 +11,7 @@ CREATE TABLE PRODUTOS (
 
 INSERT INTO PRODUTOS (nome_produto, preco, estoque) VALUES
 ('Orgulho e Preconceiro', 59.90, 20),
-('Harry Potter e a Pedra Filosofal', 35.00, 15),
+('Harry Potter e a Pedra Filosofal', 39.90, 15),
 ('Dom Quixote', 45.50, 10);
 
 -- Cria a tabela PEDIDOS:
